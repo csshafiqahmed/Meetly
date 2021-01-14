@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220854672699",
+    "firebase_url": "https://meetly-70cbf.firebaseio.com",
+    "project_id": "meetly-70cbf",
+    "storage_bucket": "meetly-70cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220854672699:android:07fa9988c5cafe29b22b1e",
+        "android_client_info": {
+          "package_name": "com.codestown.meetly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220854672699-8b9g08te69v8vb3jaqnkghr5gbja6hsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codestown.meetly",
+            "certificate_hash": "5bafca26d007fa9cf04cca01a2c525c7ae0ade54"
+          }
+        },
+        {
+          "client_id": "220854672699-csj9n97ub81js0egib56t6dech2dtqoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXOkaLobg76K24MrVjlikzSvlvAC23wUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220854672699-csj9n97ub81js0egib56t6dech2dtqoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
